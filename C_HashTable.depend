@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1559725951 source:c:\users\jashliao\desktop\c_hashtable\hashtable.c
+	"HashTable.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1559725889 c:\users\jashliao\desktop\c_hashtable\hashtable.h
+
+1559726248 source:c:\users\jashliao\desktop\c_hashtable\main.c
+	<stdio.h>
+	<stdlib.h>
+	"HashTable.h"
+
